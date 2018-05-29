@@ -1,0 +1,13 @@
+@media (min-width: 200px) {
+    .BannerTop {
+        background-image: url(../img/festival.jpg);
+        background-position: 50% 20%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #ffff;
+    }
+}
+
+.measure {
+    max-width: fit-content;
+}
